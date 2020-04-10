@@ -32,11 +32,11 @@ function App() {
             </ul>
 
             <Switch>
+              <Route exact path="/">
+                <Home />
+              </Route>
               <Route path="/register">
                 <Register />
-              </Route>
-              <Route path="/">
-                <Home />
               </Route>
             </Switch>
           </div>
