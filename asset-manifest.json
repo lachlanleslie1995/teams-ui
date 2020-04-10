@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/teams-ui/static/css/main.5f361e03.chunk.css",
+    "main.js": "/teams-ui/static/js/main.92fc929f.chunk.js",
+    "main.js.map": "/teams-ui/static/js/main.92fc929f.chunk.js.map",
+    "runtime-main.js": "/teams-ui/static/js/runtime-main.11300510.js",
+    "runtime-main.js.map": "/teams-ui/static/js/runtime-main.11300510.js.map",
+    "static/js/2.2ff1b1b9.chunk.js": "/teams-ui/static/js/2.2ff1b1b9.chunk.js",
+    "static/js/2.2ff1b1b9.chunk.js.map": "/teams-ui/static/js/2.2ff1b1b9.chunk.js.map",
+    "index.html": "/teams-ui/index.html",
+    "precache-manifest.7723acc43c0652285c01c071ae677ab8.js": "/teams-ui/precache-manifest.7723acc43c0652285c01c071ae677ab8.js",
+    "service-worker.js": "/teams-ui/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/teams-ui/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2ff1b1b9.chunk.js.LICENSE.txt": "/teams-ui/static/js/2.2ff1b1b9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/teams-ui/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11300510.js",
+    "static/js/2.2ff1b1b9.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.92fc929f.chunk.js"
+  ]
+}
