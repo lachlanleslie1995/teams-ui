@@ -6,8 +6,13 @@ This contains the source code for the teams user interface.
 
 ## Setup
 
-To install dependencies, run `yarn`
+This application requires NodeJS and NPM to be installed.
+
+- Verify you have node by running: `node --version`
+- Verify you have npm run: `npm --version`
+
+To install dependencies, run `npm install`
 
 ## Running Locally
 
-To run the application locally, run: `yarn start`
+Once you have installed the dependendieces, you can run the application locally, via: `npm run start`
