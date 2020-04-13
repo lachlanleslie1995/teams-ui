@@ -9,7 +9,7 @@ This contains the source code for the teams user interface.
 This application requires NodeJS and NPM to be installed.
 
 - Verify you have node by running: `node --version`
-- Verify you have npm run: `npm --version`
+- Verify you have npm by running: `npm --version`
 
 To install dependencies, run `npm install`
 
